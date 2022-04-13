@@ -1,5 +1,7 @@
 // Assignment code here
-
+const alpha = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const numbers = "0123456789";
+const symbols = "!@#$%^&*_-+=";
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
